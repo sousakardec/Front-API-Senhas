@@ -13,4 +13,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 Front-end desenvolvido em React;
 
-Para o funcionamento realizar o push do projeto Back-end API-senhas: https://github.com/sousakardec/Servidor-2---API-Senhas
+Para o funcionamento fazer o push do projeto Back-end API-senhas: https://github.com/sousakardec/Servidor-2---API-Senhas
