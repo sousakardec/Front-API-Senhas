@@ -3,9 +3,6 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Atendimento from "./pages/Atendimento";
 
-import Titulo from "./Titulo";
-import SubTitulo from "./SubTitulo";
-
 function App() {
   return (
     <div className="">
