@@ -1,7 +1,7 @@
 App Senha de atendimento
 
 
-<img width="1908" height="529" alt="image" src="https://github.com/user-attachments/assets/d0869e30-05f9-413d-a1a8-c5f9c61ce018" />
+<img width="2500" height="729" alt="image" src="https://github.com/user-attachments/assets/d0869e30-05f9-413d-a1a8-c5f9c61ce018" />
 
 
 Projeto em andamento
